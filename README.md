@@ -1,4 +1,5 @@
 helloworld
 ==========
 
-misc repository
+Be curious, not judgemental - Walt Whitman
+
