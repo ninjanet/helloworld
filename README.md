@@ -1,5 +1,4 @@
 helloworld
 ==========
 
-Be curious, not judgemental - Walt Whitman
-
+though she be little she be fierce
